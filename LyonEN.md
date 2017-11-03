@@ -13,8 +13,6 @@ aliases:
 ---
 This perfectly-sized town offers the widest panel of food, architecture and bits of French culture. We are going to spend time in a city with a mix of historic and post-industrial landscapes, fancy boutiques, art museums and a wide range of public transports.
 
-Cette ville de taille id&Aacute;ale offre la plus vaste gamme de nourriture, d&#39;architecture et &Aacute;l&Aacute;ments de la culture française. Nous allons passer du temps dans une ville qui m&Aacute;lange paysages historiques et post-industriels, boutiques de luxe, mus&Aacute;es d&#39;art et divers moyens de transports en commun.
-
 <section class="gallery-simple">
 {{< figure src="/img/photos/lyon-scene1-Bikes.jpg" alt="Lyon city bikes" class="box" >}}
 {{< figure src="/img/photos/lyon-scene2-Confluence.jpg" alt="Lyon confluence" class="box" >}}
