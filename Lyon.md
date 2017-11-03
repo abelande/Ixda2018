@@ -11,7 +11,7 @@ aliases:
     - /lyon.html
 
 ---
-Cette ville de taille idéale offre la plus vaste gamme de nourriture, d'architecture et d'éléments de la culture française. Nous allons passer du temps dans une ville qui mélange paysages historiques et post-industriels, boutiques de luxe, muséees d'art et divers moyens de transports en commun.
+Cette ville de taille idéale offre la plus grande diversité de gastronomie, architecture et spécificités de la culture française. Nous allons passer du temps au sein d'une ville mélangeant paysages historiques et post-industriels, boutiques de luxe, muséees d'art et qui propose un large choix de transports en commun.
 
 <section class="gallery-simple">
 {{< figure src="/img/photos/lyon-scene1-Bikes.jpg" alt="Lyon city bikes" class="box" >}}
