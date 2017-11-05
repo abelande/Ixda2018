@@ -8,7 +8,7 @@ date: 2017-07-11T22:31:14+02:00
     <h1>&#201;liminer les fronti&#232;res. <br>B&#226;tir des relations. </h1>
     <p class="button-play">
       <span class="button-play_round"><span class="button-play_triangle"></span></span>
-      <strong>Let us inspire you</strong>
+      <strong>Laissez-nous vous inspirer</strong>
     </p>
   </a>
   <iframe id="js-vimeo-player" title="Interaction 18 - Video teaser" src="https://player.vimeo.com/video/202684890" width="100%" height="60vh" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -25,7 +25,7 @@ date: 2017-07-11T22:31:14+02:00
     </p>
   </div>
   <div class="box box-primary">
-    <h2>Stay informed</h2>
+    <h2>Rest&#233;s inform&#233;s</h2>
     <p>
       Nous avons encore des annonces &#224; partager. Rest&#233;s inform&#233;s avec nos mises &#224; jour mensuelles.
     </p>
@@ -42,11 +42,11 @@ date: 2017-07-11T22:31:14+02:00
 </section>
 
 <section class="content container spacer-t-b">
-  <h2>Interaction Week 18, A week like no other</h2>
+  <h2>Interaction Week 18, une semaine comme aucune autre</h2>
   <div class="boxes boxes-2">
     <div class="box">
       <p>
-        Interaction Week 18 veut refl&#233;ter comment la technologie et le design fa&#231;onnent le monde en cr&#233;ant des ponts entre les cultures, les disciplines et les industries pour atteindre des buts partag&#233;es.
+        Interaction Week 18 veut refl&#233;ter comment la technologie et le design fa&#231;onnent le monde en cr&#233;ant des ponts entre les cultures, les disciplines et les industries pour atteindre des buts partag&#233;s.
       </p>
     </div>
     <div class="box">
@@ -57,7 +57,7 @@ date: 2017-07-11T22:31:14+02:00
   </div>
   <p>
     <strong>
-      Aper#231;u de la semaine 3—8 f&#233;vrier 2018
+      Aper&#231;u de la semaine 3-8 f&#233;vrier 2018
     </strong>
   </p>
 
@@ -184,7 +184,7 @@ date: 2017-07-11T22:31:14+02:00
     <div class="boxes boxes-valign boxes-nopadding">
       <div class="box">
         <h3>♦︎ <strong><a href="/speakers">Quatre conf&#233;renciers</a> confirm&#233;s!</strong></h3>
-        <h3>♦︎ <strong>Et <a href="/program">tous les workshops</a></strong></h3>
+        <h3>♦︎ <strong>La liste de <a href="/program">tous les workshops</a></strong></h3>
       </div>
       <div class="box">
         <p><a href="/program" class="button">Consultez la liste de workshops</a></p>
@@ -208,7 +208,7 @@ date: 2017-07-11T22:31:14+02:00
       <h3>Bienvenue &#224; Lyon</h3>
       <img src="img/photos/home_lyon-riverbanks.jpg" alt="Lyon full view">
       <p>Premi&#232;re ville culturelle, seconde ville artistique en France, ville natale de la cin&#233;matographie, gourmande et durable. Lyon est la deuxi&#232;me plus grande ville du pays.</p>
-      <p>Son vibrant h&#233;ritage et son esprit &#233;nerg&#233;tique convainc 5.5 millions touristes chaque anng&#233;e de venir profiter de tout ce qu&rsquo;elle a offrir.</p>
+      <p>Son vibrant h&#233;ritage et son esprit &#233;nerg&#233;tique convainc 5,5 millions touristes chaque ann&#233;e de venir profiter de tout ce qu&rsquo;elle a offrir.</p>
     </div>
     <div class="box">
       <h3>Une vraie confluence</h3>
