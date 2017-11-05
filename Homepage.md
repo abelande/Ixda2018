@@ -4,7 +4,7 @@ date: 2017-07-11T22:31:14+02:00
 ---
 <section class="banner text-white banner-link banner-purple banner-video">
   <a href="https://vimeo.com/202684890" class="button-banner text-white link-no-underline banner-full" id="js-play-vimeo">
-    <p>3—8 February 2018 • Lyon, France</p>
+    <p>3-8 February 2018 • Lyon, France</p>
     <h1>&#201;liminer les fronti&#232;res. <br>B&#226;tir des relations. </h1>
     <p class="button-play">
       <span class="button-play_round"><span class="button-play_triangle"></span></span>
