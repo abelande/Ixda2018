@@ -4,12 +4,12 @@ date: 2017-09-08T15:49:43+02:00
 aliases:
     - /media.html
 ---
-Nous regroupons ici tous les supports de communication pour vous aider &#224; diffuser l&rsquo;information autour de l&rsquo;&#233;v&#233;nement. Si vous cherchez quelque chose sp&#233;cifique, &#233;crivez-nous &#224; <a href="mailto:ixd18@ixda.org">ixd18@ixda.org</a>
+Nous regroupons ici tous les supports de communication pour vous aider &#224; diffuser l&rsquo;information autour de l&rsquo;&#233;v&#233;nement. Si vous avez une question sp&#233;cifique, &#233;crivez-nous &#224; <a href="mailto:ixd18@ixda.org">ixd18@ixda.org</a>
 <div class="spacer-t-b bordered-top"></div>
 <h3><strong>Communiqu&#233;s de presse</strong></h3>
 <ul>
   <li>
-    <a href="/pdf/Interaction-18_press-release_FR.pdf" target="_blank">F&#233;v. 2017 — Communiqu&#233; de presse (PDF)</a>
+    <a href="/pdf/Interaction-18_press-release_FR.pdf" target="_blank">F&#233;v. 2017 - Communiqu&#233; de presse (PDF)</a>
   </li>
 </ul>
 <div class="spacer-t-b bordered-top"></div>
@@ -34,6 +34,6 @@ Nous regroupons ici tous les supports de communication pour vous aider &#224; di
 <p>Les photos et le mat&#233;riel visuel seront accessibles bient&#244;t.</p>
 <div class="spacer-t-b bordered-top"></div>
 <h3><strong>Banni&#232;res</strong></h3>
-<p>Si vous voulez faire dela publicit&#233; pour Interaction&nbsp;18, nous avons pr&#233;par&#233; des banni&#232;res (ou bandeaux) que vous pouvez afficher sur votre site web. Ne vous inqui&#233;tez pas, ce ne sont pas des gifs avec une animation ennuyeuse et clignotante, seulement des images sobres afin que vous puissiez rediriger les visiteurs vers ce site.</p>
+<p>Si vous voulez faire de la publicit&#233; pour Interaction&nbsp;18, nous avons pr&#233;par&#233; des banni&#232;res (ou bandeaux) que vous pouvez afficher sur votre site web. Ne vous inqui&#233;tez pas, ce ne sont pas des gifs avec une animation ennuyeuse et clignotante, seulement des images sobres afin que vous puissiez rediriger les visiteurs vers ce site.</p>
 <br />
-<p><a href="download/Interaction-18_banners.zip" target="_blank" class="button">T&#233;l&#233;charger les banni&#232;res(zip — 432 Kb)</a></p>
+<p><a href="download/Interaction-18_banners.zip" target="_blank" class="button">T&#233;l&#233;charger les banni&#232;res (zip — 432 Kb)</a></p>
